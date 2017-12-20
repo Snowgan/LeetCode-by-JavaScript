@@ -1,4 +1,4 @@
-## LeetCode by JavaScript
+# LeetCode by JavaScript
 
 \# | Problem | Acceptance | Difficulty | Status
 ------------ | ------------- | ------------- | ------------- | -------------
