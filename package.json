@@ -1,0 +1,14 @@
+{
+  "name": "leetcodejs",
+  "version": "1.0.0",
+  "description": "LeetCode resolution by Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Snowgan",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
