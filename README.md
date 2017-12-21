@@ -3,7 +3,7 @@
 \# | Problem | Acceptance | Difficulty | Status
 ------------ | ------------- | ------------- | ------------- | -------------
 001 | <del>[Two Sum](Algorithms/001_Two_Sum.js)</del> | 36.5% | Easy | _Solved_
-002 | Add Two Numbers | 28.2% | Medium	
+002 | <del>[Add Two Numbers](Algorithms/002_Add_Two_Numbers.js)</del> | 28.2% | Medium | _Solved_	
 003 | Longest Substring Without Repeating Characters | 24.5% | Medium	
 004 | Median of Two Sorted Arrays | 22.4% | Hard	
 005 | Longest Palindromic Substring | 25.2% | Medium	
