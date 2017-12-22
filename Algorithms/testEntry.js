@@ -2,6 +2,7 @@ var testEntry = {};
 
 testEntry.twoSum = require('./001_Two_Sum');
 testEntry.addTwoNumbers = require('./002_Add_Two_Numbers');
+testEntry.lengthOfLongestSubstring = require('./003_Substr_Without_Repeat');
 testEntry.findMedianSortedArrays = require('./004_Median_of_Sorted_Arrays');
 testEntry.longestPalindrome = require('./005_Longest_Palindromic_Substring');
 testEntry.convert = require('./006_ZigZag_Conversion');

@@ -21,6 +21,17 @@ describe('LeetCode', function () {
 		expect(result.next.val).toEqual(0);
 		expect(result.next.next.val).toEqual(8);
 	})
+	
+	it('003_Substr_Without_Repeat', function () {
+		var s1 = 'abcabcbb',
+				s2 = 'bbbbbb',
+				s3 = 'pwwkew',
+				s4 = 'jdhfuenjfuhhkie';
+		expect(te.lengthOfLongestSubstring(s1)).toEqual(3);
+		expect(te.lengthOfLongestSubstring(s2)).toEqual(1);
+		expect(te.lengthOfLongestSubstring(s3)).toEqual(3);
+		expect(te.lengthOfLongestSubstring(s4)).toEqual(7);
+	})
 
 	
 })
