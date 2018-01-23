@@ -33,5 +33,17 @@ describe('LeetCode', function () {
 		expect(te.lengthOfLongestSubstring(s4)).toEqual(7);
 	})
 
+	it('004_Median_of_Sorted_Arrays', function () {
+		var s1 = [1, 3],
+				s2 = [2],
+				s3 = [1, 2],
+				s4 = [3, 4];
+				s5 = [3, 6, 7, 10, 16],
+				s6 = [1, 10, 22];
+		expect(te.findMedianSortedArrays(s1, s2)).toEqual(2);
+		expect(te.findMedianSortedArrays(s3, s4)).toEqual(2.5);
+		expect(te.findMedianSortedArrays(s5, s6)).toEqual(8.5);
+	})
+
 	
 })
