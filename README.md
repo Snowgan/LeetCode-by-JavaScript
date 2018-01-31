@@ -5,8 +5,8 @@
 001 | <del>[Two Sum](Algorithms/001_Two_Sum.js)</del> | 36.5% | Easy | _Solved_
 002 | <del>[Add Two Numbers](Algorithms/002_Add_Two_Numbers.js)</del> | 28.2% | Medium | _Solved_	
 003 | <del>[Longest Substring Without Repeating Characters](Algorithms/003_Substr_Without_Repeat.js)</del> | 24.5% | Medium | _Solved_	
-004 | <del>[Median of Two Sorted Arrays](Algorithms/004_Median_of_Sorted_Arrays.js)<del> | 22.4% | Hard | _Solved_	
-005 | Longest Palindromic Substring | 25.2% | Medium	
+004 | <del>[Median of Two Sorted Arrays](Algorithms/004_Median_of_Sorted_Arrays.js)</del> | 22.4% | Hard | _Solved_	
+005 | <del>[Longest Palindromic Substring](Algorithms/005_Longest_Palindromic_Substring.js)</del> | 25.2% | Medium | _Solved_
 006 | ZigZag Conversion | 27.0% | Medium	
 007 | Reverse Integer | 24.4% | Easy	
 008 | String to Integer (atoi) | 13.9% | Medium	
