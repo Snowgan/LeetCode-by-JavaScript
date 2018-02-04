@@ -51,4 +51,13 @@ describe('LeetCode', function () {
 		expect(te.longestPalindrome(s1)).toBe('gykrkyg');
 		expect(te.longestPalindrome(s2)).toBe('abcba');
 	})
+
+	it('013_Roman_to_Integer', function () {
+		var s1 = 'MMMCMXCIX',
+				s2 = 'XXI',
+				s3 = 'XLIX';
+		expect(te.roman2int(s1)).toEqual(3999);
+		expect(te.roman2int(s2)).toEqual(21);
+		expect(te.roman2int(s3)).toEqual(49);
+	})
 })

@@ -9,6 +9,7 @@ testEntry.convert = require('./006_ZigZag_Conversion');
 testEntry.reverse = require('./007_Reverse_Integer');
 testEntry.maxWater = require('./011_Container_With_Most_Water');
 testEntry.intToRoman = require('./012_Integer_to_Roman');
+testEntry.roman2int = require('./013_Roman_to_Integer');
 testEntry.longestCommonPrefix = require('./014_Longest_Common_Prefix');
 
 module.exports = testEntry;
