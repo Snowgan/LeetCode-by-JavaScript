@@ -52,6 +52,13 @@ describe('LeetCode', function () {
 		expect(te.longestPalindrome(s2)).toBe('abcba');
 	})
 
+	it('006_ZigZag_Conversion', function () {
+		var s1 = 'PAYPALISHIRING',
+			  s2 = 'JDHFOIEKJLFOLSLJFMLKEIFJOERGMSLEGIJSIE';
+		expect(te.convert(s1, 3)).toBe('PAHNAPLSIIGYIR');
+		expect(te.convert(s2, 6)).toBe('JFELDLOKISEHJLLFMGFKSMJGIEOELFORJIIJES');
+	})
+
 	it('013_Roman_to_Integer', function () {
 		var s1 = 'MMMCMXCIX',
 				s2 = 'XXI',
